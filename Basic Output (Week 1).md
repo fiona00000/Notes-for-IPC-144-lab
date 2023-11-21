@@ -1,4 +1,4 @@
-# Week 1
+# Basic Output (Week 1)
 
 ## Useful syntax for output
 - [GeeksforGeeks printf in C](https://www.geeksforgeeks.org/printf-in-c/)
