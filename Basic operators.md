@@ -39,3 +39,23 @@ x is originally 3
 x++ is 3
 x is 4 after x++
 ```
+
+## Compare (==, !=, <, >, <=, >=)
+- 0 is False
+- other numbers is True
+```C
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    char letter = 'a';
+    printf("letter equals to a? %d", letter == 'a');
+
+    return 0;
+}
+```
+output
+```
+letter equals to a? 1
+```
+
