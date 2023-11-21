@@ -43,6 +43,7 @@ x is 4 after x++
 ## Compare (==, !=, <, >, <=, >=)
 - 0 is False
 - other numbers is True
+
 ```C
 #include <stdio.h>
 
@@ -59,3 +60,9 @@ output
 letter equals to a? 1
 ```
 
+## AND OR (&&, ||)
+- OR operator: 0 || 1 -> 1 (true when either one is true)
+- AND operator: 0 && 1 -> 0 (false when either one is false)
+
+- OR can be FALSE when all items are FALSE
+- AND can only be TRUE when all items are TRUE
