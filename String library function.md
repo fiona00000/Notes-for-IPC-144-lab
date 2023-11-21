@@ -1,4 +1,6 @@
 # String Library Functions
+- inside #include <string.h> library
+
 ## strlen
 - length of a string
 ```C
