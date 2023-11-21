@@ -1,5 +1,6 @@
 # String Library Functions
 ## strlen
+- length of a string
 ```C
 #include <stdio.h>
 #include <string.h>
@@ -34,6 +35,9 @@ int main()
 
 
 ### strcpy
+- copy content from the right arguments to the left one
+- i.e. b = a will be strcpy(b,a)
+      - assumpting a and b are string
 ```C
 #include <stdio.h>
 #include <string.h>
